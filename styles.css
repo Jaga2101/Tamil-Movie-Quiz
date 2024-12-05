@@ -8,7 +8,7 @@ body {
     color: #333;
 }
 header {
-    background: #4CAF50;
+    background: #2837a4;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -22,14 +22,14 @@ main {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 h1, h2 {
-    color: #4CAF50;
+    color: #2837a4;
 }
 ul {
     margin: 10px 0;
     padding: 0 20px;
 }
 a {
-    color: #4CAF50;
+    color: #2837a4;
     text-decoration: none;
 }
 a:hover {
